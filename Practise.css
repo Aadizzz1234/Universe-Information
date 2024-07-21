@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    background-image: url(image.jpeg);
+    width: 400;
+    height: 500;
+    background-blend-mode: darken;
+    background-size: cover;
+}
+.navbarUL{
+    display: flex;
+    width: 100%;
+    background-color: black;
+    align-items: center;
+} 
+.navbarUL li a{
+    padding: 26px 30px;
+    list-style: none;
+    color: white;
+}
+.navbarUL li a:hover{
+    color: grey;
+}
+.ohio{
+    color: white;
+    text-align: center;
+}
+.aboutbody{
+    background-image: url(image.jpeg);
+    background-size: cover;
+}
+.text{
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+.tex{
+    color: white;
+    text-align: center;
+}
+.imgs{
+    width: 400px;
+    height: 260px;
+    margin: 17px;
+}
+.scientist{
+    width : 600px;
+    height: 260px;
+    margin: 20px;
+}
+.Contacts{
+    color: white;
+    text-align: center;
+}
+.Contact1{
+    background-image: url(image.jpeg);
+    background-size: cover;
+}
+.feedback{
+    width: 1000px;
+    height: 500px;
+    margin: 150px;
+}
+.unibody{
+    background-image: url(image.jpeg);
+    background-blend-mode: darken;
+    background-size: cover;
+}
+.black{
+    width: 700px;
+    height: 400px;
+    margin: 100px;
+}
+.blackpage{
+    background-image: url(image.jpeg);
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.blackholetext{
+    color: white;
+    text-align: center;   
+}
+.blackpara{
+    margin: 70px;
+    color: white;
+    text-align: center;
+}
+.Nebula{
+    margin: 100px;
+    width: 700px;
+    height: 400px;
+}
